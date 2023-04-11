@@ -1,12 +1,12 @@
-## Your Name
+## Max Allan-Smith
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A junior Software Developer who has recently graduated at Makers Academy, London. My skills range from building advanced web applications and SQL databases to functional desktop applications.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Recipe Generator**            | A webapp that allows a user to enter any ingredient that they may have laying around and the app returning a list of recipes that the user can make with those ingredients. | ReactJS, Cypress, MongoDb Atlas, Axios, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
