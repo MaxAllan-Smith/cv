@@ -6,8 +6,11 @@ A junior Software Developer who has recently graduated at Makers Academy, London
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Recipe Generator**            | A webapp that allows a user to enter any ingredient that they may have laying around and the app returning a list of recipes that the user can make with those ingredients. | ReactJS, Cypress, MongoDb Atlas, Axios, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Recipe Generator**            | A webapp that allows a user to enter any ingredient that they may have laying around and the app returning a list of recipes that the user can make with those ingredients. | ReactJS, Cypress, MongoDb Atlas, Axios, Jest, NodeJS, JWT (JSON Web Tokens, TailwindCSS |
+| **Acebook** | A Facebook clone which works very similarly to the original Facebook. Users can like other users posts, comment on the post, make friends with other users and create private posts | ReactJS, MongoDb, Express, ESLint, Nodemon, Cypress, Jest |
+| **POS Desktop Applcation** | A windows desktop application that handles customer, product and supplier information. It generates invoices and credits, account statements, good recieving notes, purchase orders and much more. | C#, .NET Core, Microsoft SQL Server, Dapper (Micro ORM), Entity Framework |
+| **Personal Budgeting App** | A windows desktop application which allows the user to enter their financial information, calculate where they can budget, how much they can spend and keep tracks of they're financial history | C#, .NET Core, Microsoft SQL Server, Dapper (Micro ORM), Entity Framework |
+| **My Portfolio** | A web application that previews all of my skills as a software developer, it allows users to contact me, create an account for my personal blog page where users with accounts can view posts from myself and other users and created posts for themselves, like and comment on posts | ReactJS, Jest, Cypress, MongoDb Atlas, TailwindCSS, Vanilla CSS, BCrypt |
 
 ## Work Experience
 
