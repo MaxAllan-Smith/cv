@@ -48,30 +48,29 @@ Fast learning is extremely valuable in software development because of the conti
 Being a fast learner means that I can be more efficient, productive, and take on new challenges, making me a valuable member to any development team.
 
 ### "Excellence is the gradual result of always striving to do better"
+It is very important to be able to write good quality code that is readable, functional and effective. I strive to achieve this level of code in all of my projects.
 
+Writing good quality code is a crucial skill for any software developer, as it can make the difference between a successful and efficient application and one that is buggy, difficult to maintain, or even unusable.
+
+When I say that code should be "readable," I mean that it is easy to understand and follow. This is important because code is typically written once but read many times by different people, other developers, and possibly even non-technical stakeholders. By writing code that is clear and well-organized, you can save yourself and others time and frustration in the long run.
+
+"Functional" code means that it does what it is supposed to do. This may sound obvious, but it can be easy to overlook important details or edge cases that can cause the code to fail. Good quality code should be thoroughly tested and optimized to ensure that it meets the requirements and functions as intended.
+
+Lastly, "effective" code is efficient and performs well. This can mean many different things depending on the context, but generally, it means that the code is written in a way that maximizes its speed, minimizes its memory usage, and otherwise optimizes its performance.
+
+In summary, striving to write code that is readable, functional, and effective is an important goal for me or any other software developer. By doing so, I can create code that is easy to maintain, performs well, and meets the requirements of the project.
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Makers Academy (Dec 2022 to April 2023)
+Full-time software development course focusing on:	
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
+- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Web frameworks, version control, and CI/CD to create full stack web apps
+- Facilitating knowledge sharing (selected to be a Mentor for incoming students)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+ - I am a social creature and strive to be surround other team members, both in a work and social enviroment.
+ - I love playing the guitar, it acts as a great way to relax after long hours of coding.
