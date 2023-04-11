@@ -1,18 +1,29 @@
-## Max Allan-Smith
+# Max Allan-Smith
 
 A junior full-stack Software Developer who has recently graduated at Makers Academy, London. My skills range from building advanced web applications and SQL databases to functional desktop applications.
 
 ## 🤓 Languages
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-green?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=ruby)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/-CSharp-green?style=for-the-badge&logo=csharp)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 
 ## 🗂️ Databases
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-darkblue?style=for-the-badge)
-![MongoDb](https://img.shields.io/badge/-MongoDb-blue?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkgrey?style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-darkblue?style=for-the-badge&logo=MicrosoftSQLServer)
+![MongoDb](https://img.shields.io/badge/-MongoDb-blue?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkgrey?style=for-the-badge&logo=postgresql)
+
+## Frameworks, Platforms & Libraries
+![NodeJS](https://img.shields.io/badge/-Node.JS-green?style=for-the-badge&logo=node.js)
+![Jest](https://img.shields.io/badge/-Jest-darkred?style=for-the-badge&logo=jest)
+![Cypress](https://img.shields.io/badge/-CyPress-lightgrey?style=for-the-badge&logo=cypress)
+![ExpressJS](https://img.shields.io/badge/-Express.JS-darkblue?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ruby Sinatra](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+Sinatra&color=000000&logo=Ruby+Sinatra&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
 
 ## 🚀 Projects
 
@@ -25,17 +36,19 @@ A junior full-stack Software Developer who has recently graduated at Makers Acad
 | **My Portfolio** | A web application that previews all of my skills as a software developer, it allows users to contact me, create an account for my personal blog page where users with accounts can view posts from myself and other users and created posts for themselves, like and comment on posts | ReactJS, Jest, Cypress, MongoDb Atlas, TailwindCSS, Vanilla CSS, BCrypt |
 
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+## What I can bring to the table (Skills) 👏
 
-#### Another skill
+### "Good communication is the bridge between confusion and clarity"
+Effective communication is essential in a software development role as it helps ensure that all team members are aligned and working towards a common goal. Software development projects are often complex and involve multiple stakeholders, including developers, designers, project managers, and clients.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+That is why I put my communication skills before my coding to help eliminate any future bugs/errors that may occur due to miscommunications.
 
-#### Another skill
+### "The more you read, the more things you will know. The more that you learn, the more places you'll go."
+Fast learning is extremely valuable in software development because of the continuous evolution of technology. It enables developers like me to quickly adapt to new programming languages, tools, and methodologies.
+Being a fast learner means that I can be more efficient, productive, and take on new challenges, making me a valuable member to any development team.
+
+### "Excellence is the gradual result of always striving to do better"
+
 
 
 ## Education
